@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694555123723",
+    "firebase_url": "https://nammabengaluruexplorer.firebaseio.com",
+    "project_id": "nammabengaluruexplorer",
+    "storage_bucket": "nammabengaluruexplorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694555123723:android:b63760a457d0ac1e",
+        "android_client_info": {
+          "package_name": "com.felight.nammabengaluruexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694555123723-q5lepv2joqu4ljoivh5rta4vdp2333m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDE1uDu8BAEHJpwGKpBXpm48V2czCuHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
